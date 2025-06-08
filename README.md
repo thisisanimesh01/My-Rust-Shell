@@ -61,7 +61,7 @@ mysh> exit
 ### 🛠 Installation
 
 ```bash
-git clone https://github.com/yourusername/rust_shell.git
+git clone https://github.com/thisisanimesh01/rust_shell.git
 cd rust_shell
 cargo run
 ```
